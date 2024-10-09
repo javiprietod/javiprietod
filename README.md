@@ -18,5 +18,5 @@ I am an AI engineer from Madrid, Spain.
 ---
   
 ### :hammer_and_wrench: Languages and Tools
-Experience using ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) ![Python Badge](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![TF Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) and more!
+Experience using ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![Python Badge](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) ![TF Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) and more!
   
