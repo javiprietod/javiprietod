@@ -1,62 +1,22 @@
-# Hi there, I'm Javier Prieto Domínguez 👋
+<h1 align="center">
+  Welcome to my Github! 
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/>
+</h1>
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:javierpridom@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](#)
 
-## 🚀 About Me
+### :man_technologist: About Me 
+I am an AI engineer from Madrid, Spain.
 
-Fast-learning and hard-working student looking to immerse into the business world at an early stage. Proficient in AI technologies, including Machine Learning and Deep Learning in Python. Proven ability to establish and maintain excellent communication and relationships with peers.
+- 💼 Working as an Assistant Professor and Researcher
 
-## 🛠 Skills
+- 👯 learning new skills in NLP and LLMs...
+  
+- :zap: Always looking for new job opportunities!.
 
-- **Main Programming Languages:** Python, R, SQL, MATLAB, C#, JavaScript
-- **Frameworks & Tools:** PyTorch, TensorFlow, Git, Django, React
-- **Languages:** Spanish (native), English (fluent), French (intermediate)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-prieto-dominguez/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiprietod@gmail.com) 
 
-## 🎓 Education
-
-- **Bachelor's Degree in Mathematical Engineering and AI**  
-  *Universidad Pontificia Comillas (ICAI), Madrid*  
-  - Achieved an honorable mention in Deep Learning (DL).
-  - Collaborated in teaching a class about the fundamentals of AI and NLP to doctorate students.
-
-## 💼 Experience
-
-- **Collaborating Research**  
-  *ICAI, Universidad Pontificia Comillas, Madrid | 2024 - Present*  
-  - Devised a Deep Learning algorithm to solve general differential equations.
-
-- **Data Science Intern**  
-  *IGNIS, Madrid | Fall 2023*  
-  - Increased the accuracy of a Computer Vision model by 25% using TensorFlow.
-  - Designed the data preprocessing pipeline using Python and SQL.
-  - Collaborated with cross-functional teams to deploy the model in production.
-
-- **Intern**  
-  *Ernst & Young, Madrid | Summer 2023*  
-  - Developed an NLP prototype solution for a major client.
-
-## 💡 Projects
-
-- **Explainable AI in Banking**  
-  *Analyzed loan default and improved models for better user experience.*  
-  [View Project](#)
-
-- **Attention Complexity**  
-  *Collaborated to reduce the time complexity of the self-attention mechanism in transformers.*  
-  [View Project](#)
-
-- **FilmAffinity Clone**  
-  *Created a similar website using Django, React, HTML, CSS, and JavaScript.*  
-  [View Project](#)
-
-## 🏅 Certifications & Achievements
-
-- **Second Place** at "AI for Social Good" hackathon sponsored by Google.
-- **NLP – Natural Language Processing with Python**, Udemy (2023).
-- **Machine Learning**, Stanford Coursera (2022).
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/-javierpridom@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:javierpridom@gmail.com)
-[![Phone](https://img.shields.io/badge/-+34%20644712060-green?style=flat&logo=whatsapp&logoColor=white)](tel:+34644712060)
+---
+  
+### :hammer_and_wrench: Languages and Tools
+Experience using ![Pytorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) ![Python Badge](	https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![TF Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) and more!
+  
