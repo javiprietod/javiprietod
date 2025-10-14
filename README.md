@@ -7,12 +7,10 @@
 ### :man_technologist: About Me 
 I am an AI engineer from Madrid, Spain.
 
-- 💼 Working as an Assistant Professor and Researcher
+- 💼 Working as AI Analyst Intern
 
-- 👯 learning new skills in NLP and LLMs...
+- 👯 Always learning new skills in NLP and LLMs...
   
-- :zap: Always looking for new job opportunities!.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-prieto-dominguez/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiprietod@gmail.com) 
 
 ---
