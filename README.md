@@ -7,7 +7,7 @@
 ### :man_technologist: About Me 
 I am an AI engineer from Madrid, Spain.
 
-- 💼 Working as AI Analyst Intern
+- 💼 Working as Data & AI Analyst 
 
 - 👯 Always learning new skills in NLP and LLMs...
   
